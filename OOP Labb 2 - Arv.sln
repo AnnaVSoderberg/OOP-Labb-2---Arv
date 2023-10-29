@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP Labb 2 - Arv", "OOP Labb 2 - Arv\OOP Labb 2 - Arv.csproj", "{C67F83A8-73B2-4BE0-A526-8E2FC60C7B8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C67F83A8-73B2-4BE0-A526-8E2FC60C7B8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C67F83A8-73B2-4BE0-A526-8E2FC60C7B8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C67F83A8-73B2-4BE0-A526-8E2FC60C7B8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C67F83A8-73B2-4BE0-A526-8E2FC60C7B8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03820BBC-E9C2-40DF-8179-7450C1AB48E0}
+	EndGlobalSection
+EndGlobal
